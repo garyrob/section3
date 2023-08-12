@@ -1,4 +1,4 @@
-![Single-Page Markdown Website](media/section3.svg)
+![Single-Page Markdown Website](images/section3.svg)
 
 # Section 3 of the United States Constitution may mean that Donald J. Trump cannot be president again. The Supreme Court must decide.
 

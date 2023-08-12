@@ -1,0 +1,4 @@
+npx --yes -- single-page-markdown-website '*.md' 
+rm -rf docs
+mv build docs
+open docs/index.html
