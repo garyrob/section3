@@ -1,0 +1,17 @@
+{
+  "single-page-markdown-website": {
+    "baseUrl": "https://section3.us",
+    "title": "Section 3 of the US Constitution and Donald J. Trump",
+    "description": "An information-gathering site for efforts to use Section 3 to disqualify Donald J. Trump from the Presidency",
+    "toc": true,
+    "sections": true,
+    "links": [
+      {
+        "text": "GitHub",
+        "url": "https://github.com/yuanqing/single-page-markdown-website"
+      }
+    ],
+    "faviconImage": "media/favicon.svg",
+    "shareImage": "media/share.png"
+  }
+}
