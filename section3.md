@@ -50,12 +50,6 @@ In contrast, civil cases operate under the "preponderance of the evidence" stand
 
 This civil standard is distinct from the criminal charges currently facing Trump. The evidence threshold is lower in civil cases. Even if he's never convicted of a crime or is in fact unconvictable because of the required standard of proof, there remains the possibility that he could be prohibited from the Presidency under Section 3.
 
-## Who is behind this site?
-Gary Robinson created it. He is the first inventor of the tracking cookie. [His patent, with a priority date of 1995](https://patentimages.storage.googleapis.com/c3/d4/40/239073914fa7fc/US5918014.pdf), did not claim the tracking cookie on its own, so anyone could use it; and it discussed many features for privacy and user control that are like the ones web sites are finally, in the last few years, being forced by law to use. (The phrase "tracking cookie" is coined in Column 10, Line 9.)
-
-He also wrote an [article about a statistical technique](https://www.linuxjournal.com/article/6467) he invented that was used in a number of award-winning spam filters.
-
-Today, he is very concerned about the future of American democracy and would like to help in whatever small way he can.
 
 
 [^1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532751
