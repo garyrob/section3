@@ -1,8 +1,8 @@
 <!-- ![Single-Page Markdown Website](images/Section3Big3.svg)-->
 
 <div style="font-family: 'Impact', sans-serif; font-size: 60px; line-height: 1.2;">
-    Section 3 <br>of the US Constitution
-    <br>
+    Section 3 <br>
+    of the US Constitution <br>
     and Donald J. Trump
 </div>
 
