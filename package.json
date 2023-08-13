@@ -4,12 +4,7 @@
     "title": "Section 3",
     "description": "An information-gathering site for efforts to use Section 3 to disqualify Donald J. Trump from the Presidency",
     "toc": true,
-    "sections": true,
-    "links": [
-      {
-        "text": "GitHub",
-        "url": "https://github.com/yuanqing/single-page-markdown-website"
-      }
-    ]
+    "sections": true
+
   }
 }
