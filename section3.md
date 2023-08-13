@@ -28,17 +28,32 @@ Everyone needs to know that we, as regular citizens, have the power to do someth
 It's up to us to make some noise and get the ball rolling so that there will be moral and, eventually, financial support for enabling Section 3 to have a real-world effect.
 
 
-## Money will need to be raised to sue.
+## Money is needed for lawsuits.
 We will need to find ways of making money available to file lawsuits when Mr. Trump is put on the ballot despite his arguable ineligibility to be President again. 
 
 And then, whatever the outcome of the initial lawsuit is, that outcome will be appealed until at least one such case gets to the Supreme Court. That process will involve a lot of legal bills. At present, we know of no one working to raise money to pay for it.
 
 ## Money will need to be raised to defend against lawsuits.
-We can be certain that any action of a public official preclusing Mr. Trump from appearing on the ballot in a particular state will lead to lawsuits. That official and the action they took will need to be defended in court, and it may be one of these cases that ends up in the Supreme Court.
+We can be certain that any action of a public official precluding Mr. Trump from appearing on the ballot in a particular state will lead to lawsuits. That official and the action they took will need to be defended in court, and it may be one of these cases that ends up in the Supreme Court.
 
 One intent of this site is to keep track of any such fundraising efforts as they become known, so that people will know where to send money. 
 
+# FAQ
+## If Donald J. Trump is an insurrectionist, why didn't Jack Smith charge him with that crime?
+Maybe he will. For example, perhaps he's working towards one or more of the (so far) unindicted co-conspirators "flipping" and provide more evidence to support such a charge.
 
+In considering whether to charge Trump with insurrection, Smith would have in mind that criminal charges require proof beyond a reasonable doubt. That's a very high standard to meet, and the standard is that high because we don't want innocent people to be sent to jail. We err on the side of the defendant to avoid injustice.
+
+However, in civil cases, the standard is very different. It's the "preponderance of the evidence." In this case, it would mean that if there's more evidence that Trump "engaged in insurrection or rebellion against the [Constitution], or given aid or comfort to the enemies thereof," then he could be found liable and barred from office.
+
+So this is an entirely different matter from the criminal charges Trump is now faced with. The standard of evidence is lower. He may never be convicted of any crime, and he may not be convictable, but it is still possible that he can be barred from the Presidency under Section 3.
+
+## Who is behind this site?
+Gary Robinson created it. He is the sole inventor of the tracking cookie. [His patent, with a priority date of 1995](https://patentimages.storage.googleapis.com/c3/d4/40/239073914fa7fc/US5918014.pdf), did not claim the tracking cookie on its own, so anyone could use it; and it discussed many features for privacy and user control that are like the ones web sites are finally, in the last few years, being forced by law to use. (The phrase "tracking cookie" is coined in Column 10, Line 9.)
+
+He also wrote an [article about a statistical technique](https://www.linuxjournal.com/article/6467) he invented that was used in a number of award-winning spam filters.
+
+Today, he is very concerned about the future of American democracy and would like to help in whatever small way he can.
 
 
 [^1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532751
