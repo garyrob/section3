@@ -1,10 +1,13 @@
 <!-- ![Single-Page Markdown Website](images/Section3Big3.svg)-->
 
-<div style="font-family: 'Impact', sans-serif; font-size: 60px;">
-<br>
-    Section 3 of the US Constitution<br><br><br>
+<div style="font-family: 'Impact', sans-serif; font-size: 60px; line-height: 1.2;">
+    Section 3 <br>of the US Constitution
+    <br>
     and Donald J. Trump
 </div>
+
+
+
 
 # An Insurrectionist Can Not Be President
 This web page is a dedicated information clearinghouse for efforts to bring about a Supreme Court case to decide whether Donald J. Trump is ineligible for the Presidency due to Section 3 of the United States Constitution.
