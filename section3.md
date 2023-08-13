@@ -11,6 +11,7 @@
 
 # An Insurrectionist Can Not Be President
 This web page is a dedicated information clearinghouse for efforts to bring about a Supreme Court case to decide whether Donald J. Trump is ineligible for the Presidency due to Section 3 of the United States Constitution.
+
 # Background
 Section 3 of the US Constitution says: 
 > No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability. 
@@ -34,21 +35,26 @@ And with respect to the example of a Presidential candidate, and after some disc
 
 But what can you and I, who are not officeholders with the power to execute the actions mentioned above, do?
 
-## We can spread the word.
+**We can spread the word.**
 Everyone should be aware that we, as regular citizens, possess the power to influence this situation. If we don't act, then who will? If ballot-controlling officials believe voters are indifferent, how many will risk their professional standing to take a stand?
 
 It's our responsibility to raise our voices and initiate momentum. Only then can there be moral and, eventually, financial backing to ensure that Section 3 has tangible consequences in the real world.
 
 
-## Money is needed for lawsuits.
+**Money is needed for lawsuits.**
 We must identify avenues to secure funds for filing lawsuits should Mr. Trump be placed on the ballot despite potential ineligibility for another presidential term.
 
 Regardless of the initial lawsuit's outcome, appeals will likely ensue until at least one case reaches the Supreme Court. Such a process will incur significant legal expenses. Currently, we are unaware of any initiatives to raise funds for this purpose.
 
-## Money will need to be raised to defend against lawsuits.
+**Money will need to be raised to defend against lawsuits.**
 We can be sure that any decision by a public official to exclude Mr. Trump from a state ballot will result in lawsuits. Both the official and their decision will require legal defense, and one of these cases might make its way to the Supreme Court.
 
 A primary objective of this site is to monitor fundraising efforts related to this cause. As these initiatives emerge, we will provide information on where people can contribute.
+
+
+# Community
+There is a subreddit dedicated to discussion of all aspects of the Section 3 issue at https://www.reddit.com/r/section3/.
+
 
 # FAQ
 ## If Donald J. Trump is an insurrectionist, why didn't Jack Smith charge him with that crime?
@@ -59,7 +65,6 @@ When contemplating a charge of insurrection against Trump, Smith would certainly
 In contrast, civil cases operate under the "preponderance of the evidence" standard. This means if there's more evidence suggesting Trump "engaged in insurrection or rebellion against the [Constitution], or given aid or comfort to the enemies thereof," he could be deemed liable and barred from office.
 
 This civil standard is distinct from the criminal charges currently facing Trump. The evidence threshold is lower in civil cases. Even if he's never convicted of a crime or is in fact unconvictable because of the required standard of proof, there remains the possibility that he could be prohibited from the Presidency under Section 3.
-
 
 
 [^1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532751
