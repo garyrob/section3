@@ -1,3 +1,2 @@
-npx --yes -- single-page-markdown-website '*.md' 
-cp -rf build/* docs/
+npx --yes -- single-page-markdown-website '*.md'  --output ./docs
 open docs/index.html
