@@ -49,7 +49,7 @@ However, in civil cases, the standard is very different. It's the "preponderance
 So this is an entirely different matter from the criminal charges Trump is now faced with. The standard of evidence is lower. He may never be convicted of any crime, and he may not be convictable, but it is still possible that he can be barred from the Presidency under Section 3.
 
 ## Who is behind this site?
-Gary Robinson created it. He is the sole inventor of the tracking cookie. [His patent, with a priority date of 1995](https://patentimages.storage.googleapis.com/c3/d4/40/239073914fa7fc/US5918014.pdf), did not claim the tracking cookie on its own, so anyone could use it; and it discussed many features for privacy and user control that are like the ones web sites are finally, in the last few years, being forced by law to use. (The phrase "tracking cookie" is coined in Column 10, Line 9.)
+Gary Robinson created it. He is the first inventor of the tracking cookie. [His patent, with a priority date of 1995](https://patentimages.storage.googleapis.com/c3/d4/40/239073914fa7fc/US5918014.pdf), did not claim the tracking cookie on its own, so anyone could use it; and it discussed many features for privacy and user control that are like the ones web sites are finally, in the last few years, being forced by law to use. (The phrase "tracking cookie" is coined in Column 10, Line 9.)
 
 He also wrote an [article about a statistical technique](https://www.linuxjournal.com/article/6467) he invented that was used in a number of award-winning spam filters.
 
